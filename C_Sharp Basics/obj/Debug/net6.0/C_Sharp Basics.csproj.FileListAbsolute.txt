@@ -1,0 +1,5 @@
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\C_Sharp Basics\C_Sharp Basics\obj\Debug\net6.0\C_Sharp Basics.csproj.AssemblyReference.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\C_Sharp Basics\C_Sharp Basics\obj\Debug\net6.0\C_Sharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\C_Sharp Basics\C_Sharp Basics\obj\Debug\net6.0\C_Sharp Basics.AssemblyInfoInputs.cache
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\C_Sharp Basics\C_Sharp Basics\obj\Debug\net6.0\C_Sharp Basics.AssemblyInfo.cs
+C:\Users\Achilles_Games\Desktop\Achilles_Games\C#\Projects\C_Sharp Basics\C_Sharp Basics\obj\Debug\net6.0\C_Sharp Basics.csproj.CoreCompileInputs.cache
